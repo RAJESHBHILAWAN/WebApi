@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|d:\\rajesh\\personal\\interview\\rnd\\webapi\\core\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|d:\\rajesh\\personal\\interview\\rnd\\webapi\\core\\webapplication1\\webapplication1\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|d:\\rajesh\\personal\\interview\\rnd\\webapi\\core\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|d:\\rajesh\\personal\\interview\\rnd\\webapi\\core\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|d:\\rajesh\\personal\\interview\\rnd\\webapi\\core\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|d:\\rajesh\\personal\\interview\\rnd\\webapi\\core\\webapplication1\\webapplication1\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4305EA22-2232-40A7-9968-851B768A0C90}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:52:13.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Middleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware.cs",
+              "ToolTip": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Middleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:53:01.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:57:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T07:54:12.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SecondController.cs",
+              "ToolTip": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SecondController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:21:32.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "D:\\Rajesh\\Personal\\Interview\\RnD\\WebAPI\\Core\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:57:17.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
