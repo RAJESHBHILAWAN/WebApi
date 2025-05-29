@@ -16,6 +16,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
 
+//builder.Services.AddOptions<AppSettings>().BindConfiguration("AppSettings");
 //builder.Services.AddSession();
 
 
