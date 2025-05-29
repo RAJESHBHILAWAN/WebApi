@@ -14,9 +14,14 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen();
 
-builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
-
-//builder.Services.AddOptions<AppSettings>().BindConfiguration("AppSettings");
+//builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+int parsedNumber;
+builder.Services.AddOptions<AppSettings>().BindConfiguration("AppSettings")
+    .Validate(opts =>
+    !string.IsNullOrEmpty(opts.MySetting1),
+    "Failed Validations"
+    )
+    ;
 //builder.Services.AddSession();
 
 

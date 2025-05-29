@@ -1,3 +1,4 @@
+using ConsoleToWebAPI;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using WebApplication1.Classes;
@@ -25,6 +26,12 @@ namespace WebApplication1.Controllers
             _appSettings1 = appSettings1.Value;
             _appSettings2 = appSettings2.Value;
             _appSettings3 = appSettings3.CurrentValue;
+        }
+
+        [HttpGet("search")]
+        public IActionResult SearchCounties([ModelBinder(typeof(CustomBinder))] string[] countries)
+        {
+            return Ok(countries);
         }
         [HttpGet("settings11")]
         public IActionResult GetSettings()
