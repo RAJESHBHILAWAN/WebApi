@@ -14,9 +14,11 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen();
 
+builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+
 //builder.Services.AddSession();
 
- 
+
 
 
 var app = builder.Build();
@@ -32,14 +34,14 @@ else
 {
     app.UseExceptionHandler("/Error");
 }
- 
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-app.UseSubscribePlease();
+//app.UseSubscribePlease();
 
 //app.UseSession();
 app.MapControllerRoute(
